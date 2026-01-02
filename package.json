@@ -1,0 +1,7 @@
+{
+  "name": "realnashtech-website",
+  "private": true,
+  "scripts": {
+    "start": "node server.js --port 3001"
+  }
+}
